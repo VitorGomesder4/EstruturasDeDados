@@ -1,0 +1,1 @@
+Repositorio com todas atividades de Estruturas de Dados Python
